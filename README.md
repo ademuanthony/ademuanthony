@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ademu Anthony</h1>
-<h3 align="center">I'm a Blockchain engineer, and fullstack Web developer!!</h3>
+<h3 align="center">I'm a Blockchain engineer, web3 lover, and fullstack Web developer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ademuanthony&label=Profile%20views&color=0e75b6&style=flat" alt="ademuanthony" /> </p>
 
