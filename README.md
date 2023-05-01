@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [https://dev.to/ademuanthony](https://dev.to/ademuanthony)
 
-- 📫 How to reach me **ademuanthony@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/ademuanthony/](https://www.linkedin.com/in/ademuanthony/)
 
 - ⚡ Fun fact **Life is better when you cry a little, laugh a lot, and are thankful for everything you've got.**
